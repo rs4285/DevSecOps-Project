@@ -9,7 +9,7 @@ Connect to the instance using SSH.
 Update all the packages and then clone the code.
 
 Clone your application's code repository onto the EC2 instance:
-git clone https://github.com/N4si/DevSecOps-Project.git
+git clone https://github.com/rs4285/DevSecOps-Project
 3. Step 3: Install Docker and Run the App Using a Container:
 
 Set up Docker on the EC2 instance:
